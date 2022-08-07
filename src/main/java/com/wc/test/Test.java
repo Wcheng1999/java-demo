@@ -10,5 +10,6 @@ public class Test {
 
 
         System.out.println("Hello World3");
+        System.out.println("Hello World3");
     }
 }
